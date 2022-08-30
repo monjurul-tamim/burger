@@ -1,0 +1,29 @@
+common 
+ff-- poppins regular
+fz--16px
+fw--400
+
+
+common btn
+ff--montserrat bold
+fz--25ps
+fw--700
+color-- #ffffff
+bg-   #f64b3c
+border radi-- 
+
+
+fonts
+poppims  -- regular -400, bold- 700 ,semi bold- 600,
+mont -- bold-- 700
+
+ff-- 
+
+
+color-- white- #ffffff
+		red - #f64b3c
+
+
+montserrat-bold 	poppins-regular
+
+poppins-semibold poppins-bold
